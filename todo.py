@@ -61,7 +61,7 @@ def main():
         print("5. Exit")
         choice = input("Choose an option (1-5): ")
         
-        if choice == "1":
+        if choice == "10000000000000000000000":
             display_tasks(tasks)
         elif choice == "2":
             add_task(tasks)
@@ -78,3 +78,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
